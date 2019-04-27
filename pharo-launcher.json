@@ -1,0 +1,12 @@
+{
+  "version": "1.8",
+  "description": "Launcher for Pharo images and VM",
+  "homepage": "https://pharo.org/",
+  "license": "MIT",
+  "url": "https://files.pharo.org/pharo-launcher/windows#pharo.msi",
+  "hash": "cb902e2e69a45f915e8fffcbea6f03e726370ba365c562feee43fdd812471cec",
+  "extract_dir": "/",
+  "shortcuts": [
+    ["Pharo/Pharo.exe", "Pharo", "Pharo/Pharo.image", "pharo-launcher.ico"]
+  ]
+}
